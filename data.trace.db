@@ -1,0 +1,33 @@
+2016-11-26 22:05:27 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PROJECT_ARCHITECTURE" not found; SQL statement:
+alter table project_architecture drop constraint FK59D618B95B107588 [42102-192]
+2016-11-26 22:05:27 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PROJECT_ARCHITECTURE" not found; SQL statement:
+alter table project_architecture drop constraint FK59D618B9251BA325 [42102-192]
+2016-11-26 22:05:27 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "SLICING" not found; SQL statement:
+alter table slicing drop constraint FK81AE3DCFB11F227F [42102-192]
+2016-11-26 22:05:27 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "TASK" not found; SQL statement:
+alter table task drop constraint FK3635853D36CE7F [42102-192]
+2016-11-26 22:05:27 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USER_PROJECT" not found; SQL statement:
+alter table user_project drop constraint FK487FE2A5251BA325 [42102-192]
+2016-11-26 22:05:27 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USER_PROJECT" not found; SQL statement:
+alter table user_project drop constraint FK487FE2A51A2B6861 [42102-192]
+2016-11-26 22:05:27 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USER_PROJECT" not found; SQL statement:
+alter table user_project drop constraint FK487FE2A557AFD7AD [42102-192]
+2016-11-26 22:05:27 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USER_PROJECT" not found; SQL statement:
+alter table user_project drop constraint FK487FE2A5E79733D9 [42102-192]
+2016-11-26 22:05:27 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USER_SKILL" not found; SQL statement:
+alter table user_skill drop constraint FK734ED4DDB7AEEC7F [42102-192]
+2016-11-26 22:05:27 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USER_SKILL" not found; SQL statement:
+alter table user_skill drop constraint FK734ED4DD6C5FBE95 [42102-192]
+2016-11-26 22:05:27 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USER_SKILL" not found; SQL statement:
+alter table user_skill drop constraint FK734ED4DDBF3BD0D5 [42102-192]
